@@ -1,0 +1,14 @@
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date

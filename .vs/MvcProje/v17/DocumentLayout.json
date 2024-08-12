@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\MvcProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B77D7C-83D6-4548-829E-9BFE0674571C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\bilal\\source\\repos\\mvcproje\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B77D7C-83D6-4548-829E-9BFE0674571C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEEEBA7-2980-45CE-B0C2-3146D559A504}|MvcProje\\MvcProje.csproj|C:\\Users\\bilal\\source\\repos\\MvcProje\\mvcproje\\dersler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AFEEEBA7-2980-45CE-B0C2-3146D559A504}|MvcProje\\MvcProje.csproj|solutionrelative:mvcproje\\dersler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B77D7C-83D6-4548-829E-9BFE0674571C}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\bilal\\source\\repos\\MvcProje\\dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B77D7C-83D6-4548-829E-9BFE0674571C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEEEBA7-2980-45CE-B0C2-3146D559A504}|MvcProje\\MvcProje.csproj|C:\\Users\\bilal\\source\\repos\\MvcProje\\mvcproje\\ogrencilistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AFEEEBA7-2980-45CE-B0C2-3146D559A504}|MvcProje\\MvcProje.csproj|solutionrelative:mvcproje\\ogrencilistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCAD9CC-0F2C-477D-901E-005E2B0020C7}|EntityLayer\\EntityLayer.csproj|C:\\Users\\bilal\\source\\repos\\MvcProje\\entitylayer\\entityders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCAD9CC-0F2C-477D-901E-005E2B0020C7}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entityders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\MvcProje\\DataAccessLayer\\Baglanti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\MvcProje\\DataAccessLayer\\Baglanti.cs*",
+              "RelativeToolTip": "DataAccessLayer\\Baglanti.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:05:14.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciListesi.aspx",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\MvcProje\\MvcProje\\OgrenciListesi.aspx",
+              "RelativeDocumentMoniker": "MvcProje\\OgrenciListesi.aspx",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\MvcProje\\MvcProje\\OgrenciListesi.aspx",
+              "RelativeToolTip": "MvcProje\\OgrenciListesi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-07-25T13:07:50.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALDers.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\MvcProje\\DataAccessLayer\\DALDers.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALDers.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\MvcProje\\DataAccessLayer\\DALDers.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALDers.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-25T12:34:55.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dersler.aspx",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\MvcProje\\MvcProje\\Dersler.aspx",
+              "RelativeDocumentMoniker": "MvcProje\\Dersler.aspx",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\MvcProje\\MvcProje\\Dersler.aspx",
+              "RelativeToolTip": "MvcProje\\Dersler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-07-26T06:59:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityDers.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\MvcProje\\EntityLayer\\EntityDers.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityDers.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\MvcProje\\EntityLayer\\EntityDers.cs",
+              "RelativeToolTip": "EntityLayer\\EntityDers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-07-25T12:40:19.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

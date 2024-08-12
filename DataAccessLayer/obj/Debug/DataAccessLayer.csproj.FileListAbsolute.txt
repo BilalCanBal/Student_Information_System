@@ -1,0 +1,12 @@
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\bilal\source\repos\MvcProje\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
